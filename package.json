@@ -1,0 +1,17 @@
+{
+    "name": "03-bases-nodejs",
+    "version": "1.0.0",
+    "description": "Aplicacion de linea de comando",
+    "main": "alc.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Marco Cruz",
+    "license": "ISC",
+    "dependencies": {
+        "yargs": "^15.4.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
